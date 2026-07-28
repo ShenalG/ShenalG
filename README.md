@@ -43,7 +43,8 @@ Beyond coding, I enjoy exploring the world of hardware through IoT projects and 
 ---
 
 ### 📈 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ShenalG&show_icons=true&theme=tokyonight" height="150" alt="stats card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShenalG&layout=compact&theme=tokyonight" height="150" alt="languages card" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShenalG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shenal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShenalG&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%" />
 </p>
